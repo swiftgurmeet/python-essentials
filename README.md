@@ -1,2 +1,2 @@
 # python-notebook-intro
-Intro to Python uning notebook
+Intro to Python using Jupyter notebook
